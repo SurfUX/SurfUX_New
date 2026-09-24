@@ -126,7 +126,7 @@ include __DIR__.'/../includes/header.php';
                 </a>
 
                 <a
-                    class="btn btn-ghost"
+                    class="btn btn-ghos"
                     href="#solutions"
                 >
                     Explore CareSphere

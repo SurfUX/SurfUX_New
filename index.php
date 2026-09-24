@@ -118,7 +118,7 @@ include __DIR__ . '/includes/header.php';
                 <a class="btn btn-primary"
                    href="<?= BASE_URL ?>/pages/portfolio.php">
                     Explore our solutions
-                    <span>↗</span>
+                    <span>→</span>
                 </a>
 
                 <a class="btn btn-ghos"
@@ -167,7 +167,7 @@ include __DIR__ . '/includes/header.php';
                 <!-- Floating card 01 -->
                 <div class="hero-floating-card hero-card-top">
 
-                    <span class="floating-icon">↗</span>
+                    <span class="floating-icon">→</span>
 
                     <div>
                         <strong>Technology</strong>
