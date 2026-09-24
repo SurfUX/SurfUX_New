@@ -138,7 +138,7 @@ include __DIR__.'/../includes/header.php';
                     </span>
 
                     <span class="news-open">
-                        Read story ↗
+                        Read story →
                     </span>
 
                 </a>

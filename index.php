@@ -708,7 +708,7 @@ include __DIR__ . '/includes/header.php';
             <a class="btn btn-outline"
                href="<?= BASE_URL ?>/pages/portfolio.php">
 
-                View all <?= count($home_portfolio) ?> projects ↗
+                View all <?= count($home_portfolio) ?> projects →
 
             </a>
 
@@ -731,7 +731,7 @@ include __DIR__ . '/includes/header.php';
                         >
 
                         <span class="home-project-overlay">
-                            View case study ↗
+                            View case study →
                         </span>
 
                     </div>
@@ -768,7 +768,7 @@ include __DIR__ . '/includes/header.php';
 
 
                         <span class="arrow">
-                            ↗
+                            →
                         </span>
 
                     </div>

@@ -48,7 +48,7 @@
         </p>
 
         <a class="sux-footer-project-link" href="<?= BASE_URL ?>/pages/contact.php">
-          Start a project <span>↗</span>
+          Start a project <span>→</span>
         </a>
       </div>
 
@@ -101,22 +101,22 @@
 
         <a href="https://web.facebook.com/profile.php?id=61585917241863" target="_blank" rel="noopener noreferrer">
           Facebook
-          <span>↗</span>
+          <span>→</span>
         </a>
 
         <a href="https://www.instagram.com/surf.ux/" target="_blank" rel="noopener noreferrer">
           Instagram
-          <span>↗</span>
+          <span>→</span>
         </a>
 
         <a href="https://www.linkedin.com/company/surfux/" target="_blank" rel="noopener noreferrer">
           LinkedIn
-          <span>↗</span>
+          <span>→</span>
         </a>
 
         <!-- <a href="#" target="_blank" rel="noopener noreferrer">
           TikTok
-          <span>↗</span>
+          <span>→</span>
         </a> -->
 
       </div>

@@ -396,7 +396,7 @@ foreach ($portfolio as $p) {
                             >
 
                             <span class="project-open">
-                                View case study ↗
+                                View case study →
                             </span>
 
                         </a>

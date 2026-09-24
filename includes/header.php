@@ -78,11 +78,11 @@ $current = basename($_SERVER['PHP_SELF']);
 
       <a class="nav-cta"
          href="<?= BASE_URL ?>/pages/contact.php">
-        Let's talk <span>↗</span>
+        Let's talk <span>→</span>
       </a>
       <a class="nav-pcta"
          href="<?= BASE_URL ?>/pages/caresphere.php">
-        CareSphere <span>↗</span>
+        CareSphere <span>→</span>
       </a>
 
     </nav>

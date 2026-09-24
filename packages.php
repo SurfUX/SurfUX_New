@@ -776,7 +776,7 @@ include __DIR__.'/../includes/header.php';
 
                 <div class="social-ads-icon">
                     <span>
-                        ↗
+                        →
                     </span>
                 </div>
 
