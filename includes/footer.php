@@ -32,7 +32,7 @@
       <div class="sux-footer-brand">
         <a href="/surfs/index.php" class="logo d-flex align-items-center">
           <!-- Uncomment the line below if you also wish to use an image logo -->
-         <img src="/surfs/assets/img/portfolio/logo.webp"> 
+          <img src="<?= BASE_URL ?>/assets/img/portfolio/logo.webp" > 
           <!-- <h1 class="sitename">SurfUX</h1> -->
         </a>
 
